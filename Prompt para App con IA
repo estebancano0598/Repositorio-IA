@@ -1,0 +1,429 @@
+Link de la App: https://stream-bell-reminder.lovable.app/servicios?p=disney
+
+
+1. Identidad visual de Turop
+Utiliza el logo oficial proporcionado como elemento principal de la marca.
+El logo contiene:
+
+    El nombre turop en minúsculas y color blanco.
+    Un isotipo relacionado con streaming, reproducción de contenido y pagos.
+    Un fondo cuadrado con esquinas redondeadas.
+    Un degradado visual en tonos azul, morado y violeta.
+    Una estética tecnológica, moderna y orientada al entretenimiento digital.
+
+No rediseñes ni deformes el logo. Mantén sus proporciones, colores y legibilidad. Utiliza:
+
+    La versión completa del logo en el encabezado y el pie de página.
+    El isotipo en botones, tarjetas, favicon, menú móvil y elementos pequeños.
+    El logo completo en la pantalla de carga.
+
+Paleta oficial
+Utiliza estrictamente los siguientes colores:
+
+    #02010A — negro profundo.
+    #04052E — azul noche.
+    #140152 — morado oscuro.
+    #22007C — morado intenso.
+    #0D00A4 — azul eléctrico.
+
+Uso recomendado:
+
+    Fondo principal oscuro: #02010A.
+    Fondos secundarios: #04052E y #140152.
+    Botones principales: #22007C.
+    Elementos activos, enlaces y acentos: #0D00A4.
+    Texto principal: blanco o #FFFFFF.
+    Texto secundario: gris azulado claro.
+    Estados de éxito, advertencia y error: utilizar colores accesibles que armonicen con la paleta sin confundirse con los colores principales.
+
+Usa degradados entre #22007C y #0D00A4 en botones destacados, banners y elementos visuales importantes. La interfaz debe utilizar bordes redondeados, sombras suaves, transiciones fluidas y suficiente espacio visual.
+2. Pantalla de carga
+Al abrir Turop, mostrar una pantalla de carga con:
+
+    Logo completo centrado.
+    Fondo oscuro utilizando #02010A o un degradado entre #04052E y #140152.
+    Barra de progreso debajo del logo.
+    Animación de la barra de izquierda a derecha.
+    Transición suave hacia la página principal.
+    Diseño adaptable para celulares, tablets y computadoras.
+
+Si el usuario ya inició sesión, dirigirlo automáticamente al panel principal. Si no, mostrar la página de bienvenida.
+3. Página de bienvenida
+Crear una página de inicio atractiva y profesional.
+Encabezado
+Incluir:
+
+    Logo de Turop.
+    Enlace Inicio.
+    Enlace Cómo funciona.
+    Enlace Preguntas frecuentes.
+    Botón Iniciar sesión.
+    Botón principal Registrarme.
+
+En dispositivos móviles, reemplazar la navegación por un menú desplegable.
+Sección principal
+Mostrar un banner destacado con el texto:
+Con Turop ahorras hasta un 70%
+El banner debe incluir:
+
+    El logotipo o isotipo de Turop.
+    Una composición visual relacionada con streaming, ahorro y entretenimiento digital.
+    Un botón principal Crear una cuenta.
+    Un botón secundario Conocer más.
+    Un fondo con degradado entre #140152, #22007C y #0D00A4.
+
+Descripción
+Mostrar el siguiente mensaje:
+Turop te ayuda a acceder y administrar perfiles de plataformas de streaming de forma organizada, transparente y segura. Elige la plataforma que prefieras, conoce el valor exacto que debes pagar y descubre cuánto puedes ahorrar.
+Añadir tarjetas de beneficios:
+
+    Ahorro transparente.
+    Pagos organizados.
+    Gestión sencilla de perfiles.
+    Control de fechas y renovaciones.
+    Información clara sobre cada plan.
+    Varias plataformas desde un solo lugar.
+
+4. Registro de usuario
+Al seleccionar Crear una cuenta o Registrarme, dirigir al usuario a un formulario dividido por pasos.
+Mostrar un indicador visual del progreso, por ejemplo:
+
+    Información personal.
+    Contacto.
+    Método de pago.
+    Confirmación.
+
+Paso 1: Información personal
+Campos:
+
+    Nombre completo.
+    Correo electrónico.
+    Contraseña.
+    Confirmación de contraseña.
+    País de residencia.
+
+Validaciones:
+
+    Correo electrónico válido.
+    Contraseña segura.
+    Contraseñas coincidentes.
+    Mensajes de error claros.
+    Estados visuales para campos correctos e incorrectos.
+
+Paso 2: Número de teléfono
+Después de seleccionar el país:
+
+    Mostrar automáticamente el indicativo internacional.
+    Permitir introducir el número local.
+    Mostrar el código de país junto al campo.
+    Validar el formato del número.
+    Permitir verificación por SMS como funcionalidad opcional.
+
+Ejemplos:
+
+    Colombia: +57.
+    México: +52.
+    España: +34.
+    Estados Unidos: +1.
+
+Paso 3: Método de pago
+Mostrar métodos de pago disponibles según el país seleccionado.
+Ejemplos:
+
+    Nequi.
+    Bancolombia.
+    Banco de Santander.
+    PSE.
+    Tarjeta débito.
+    Tarjeta crédito.
+    PayPal u otros proveedores compatibles.
+
+Al seleccionar un método, mostrar únicamente los campos necesarios.
+Para tarjetas:
+
+    Integrar un proveedor de pagos seguro.
+    No almacenar directamente datos completos de tarjetas.
+    Utilizar tokenización o componentes seguros.
+    Mostrar número de tarjeta, fecha de vencimiento, código de seguridad y nombre del titular únicamente mediante el proveedor correspondiente.
+
+Paso 4: Confirmación
+Incluir:
+
+    Casilla para aceptar términos y condiciones.
+    Enlace a la política de privacidad.
+    Casilla opcional para recibir comunicaciones.
+    Resumen de la información registrada.
+    Botón Crear cuenta.
+
+Después de completar el registro:
+
+    Mostrar una notificación de éxito.
+    Iniciar sesión automáticamente o dirigir al inicio de sesión.
+    Enviar al usuario al panel principal.
+
+5. Panel principal
+Crear un dashboard responsive y fácil de entender.
+Encabezado del panel
+Incluir:
+
+    Logo completo en computadoras.
+    Isotipo en espacios reducidos o celulares.
+    Nombre o avatar del usuario.
+    Notificaciones.
+    Configuración.
+    Menú de usuario.
+    Botón para cerrar sesión.
+
+Resumen de cuenta
+Mostrar tarjetas con:
+
+    Ahorro total acumulado.
+    Perfiles activos.
+    Próximo pago.
+    Próxima fecha de renovación.
+    Plataformas utilizadas.
+
+Usar tarjetas oscuras con bordes sutiles y acentos en #0D00A4 o #22007C.
+6. Gestión de perfiles
+En la sección principal, mostrar los perfiles registrados por el usuario.
+Si no tiene perfiles, mostrar:
+Todavía no tienes perfiles registrados. Agrega tu primer perfil y empieza a ahorrar.
+Tarjeta “Agregar perfil”
+Crear una tarjeta con:
+
+    Bordes redondeados.
+    Un círculo central con el símbolo +.
+    Texto Agregar perfil.
+    Animación al pasar el cursor.
+    Estado de foco visible.
+    Degradado sutil en los colores de Turop.
+
+Después de crear un perfil, mantener siempre una tarjeta adicional para Agregar perfil.
+Distribución:
+
+    Una columna en celulares.
+    Dos columnas en tablets.
+    Tres o más columnas en computadoras.
+
+7. Selección de plataforma
+Al hacer clic en Agregar perfil, mostrar una vista dedicada con las plataformas disponibles.
+Ejemplos:
+
+    Spotify.
+    Netflix.
+    Disney+.
+    Prime Video.
+    Max.
+    YouTube Premium.
+    Apple TV+.
+    Apple Music.
+    Otras plataformas configurables desde un panel administrativo.
+
+Cada tarjeta debe contener:
+
+    Logo oficial de la plataforma, cuando sea posible.
+    Nombre.
+    Descripción breve.
+    Estado de disponibilidad.
+    Botón Seleccionar.
+
+No utilizar logotipos o marcas de terceros de forma que parezca existir una alianza oficial si esta no ha sido confirmada.
+8. Selección del plan
+Después de elegir una plataforma, mostrar los planes disponibles.
+Permitir seleccionar:
+Número de usuarios
+
+    Dos usuarios.
+    Tres usuarios.
+    Cuatro usuarios.
+
+Duración
+
+    Mensual.
+    Semestral.
+    Anual.
+
+Cada plan debe mostrar:
+
+    Precio total.
+    Precio por usuario.
+    Duración.
+    Ahorro estimado.
+    Porcentaje de ahorro.
+    Fecha de inicio.
+    Fecha de finalización.
+    Condiciones del plan.
+
+Antes de confirmar, mostrar un resumen con:
+
+    Plataforma seleccionada.
+    Tipo de plan.
+    Número de usuarios.
+    Duración.
+    Precio total.
+    Valor que debe pagar el usuario.
+    Ahorro mensual.
+    Ahorro anual estimado.
+    Porcentaje de ahorro.
+
+Incluir los botones:
+
+    Volver.
+    Confirmar perfil.
+
+Al confirmar, regresar al panel principal y mostrar el nuevo perfil.
+La aplicación debe respetar los términos de uso y las políticas de cada plataforma de streaming. No presentar como permitido ningún modelo de uso que contradiga las reglas de la plataforma correspondiente.
+9. Detalle de un perfil
+Al seleccionar un perfil existente, mostrar:
+
+    Isotipo o logo de la plataforma.
+    Nombre de la plataforma.
+    Estado: activo, próximo a vencer o vencido.
+    Fecha de inicio.
+    Fecha de renovación.
+    Tiempo restante.
+    Valor pagado.
+    Próximo pago.
+    Ahorro mensual.
+    Ahorro anual estimado.
+    Porcentaje de ahorro.
+    Número de usuarios asociados.
+    Duración contratada.
+
+Acciones:
+
+    Ver detalles del plan.
+    Cambiar método de pago.
+    Renovar perfil.
+    Cancelar perfil.
+    Reportar un problema.
+
+Las acciones importantes deben incluir confirmaciones antes de ejecutarse.
+10. Reseñas de usuarios
+Debajo de la sección de perfiles, mostrar máximo tres reseñas.
+Cada reseña debe incluir:
+
+    Nombre o iniciales.
+    Avatar.
+    Calificación con estrellas.
+    Comentario.
+    Fecha.
+
+Añadir un botón Ver todas las reseñas. En celulares, utilizar un carrusel deslizable.
+11. Mapa de usuarios
+Debajo de las reseñas, incluir un mapamundi visual e interactivo.
+Características:
+
+    Mapa base en gris opaco.
+    Regiones aproximadas resaltadas con #0D00A4 o #22007C.
+    Puntos de usuarios con distintos niveles de intensidad.
+    Datos agregados y anónimos.
+    No mostrar ubicaciones exactas ni información personal.
+    Incluir la leyenda:
+
+Usuarios de Turop alrededor del mundo
+En dispositivos móviles, permitir desplazamiento y zoom.
+12. Slider de plataformas populares
+Crear un slider con las plataformas más utilizadas.
+Cada tarjeta debe mostrar:
+
+    Logo de la plataforma.
+    Nombre.
+    Nivel de popularidad.
+    Porcentaje de usuarios.
+    Número aproximado de perfiles activos.
+    Botón Ver planes.
+
+El slider debe permitir:
+
+    Navegación con flechas.
+    Deslizamiento táctil.
+    Movimiento automático opcional.
+    Pausa al pasar el cursor.
+    Navegación mediante teclado.
+
+13. Página “Leer más”
+Crear una página informativa accesible desde el botón Leer más.
+Incluir las siguientes secciones:
+Misión
+Explicar que Turop busca facilitar la gestión transparente, organizada y sencilla de servicios digitales.
+Visión
+Presentar a Turop como una plataforma confiable para administrar suscripciones y perfiles digitales.
+Usuarios alcanzados
+Mostrar métricas visuales, claramente identificadas como reales o de demostración:
+
+    Usuarios registrados.
+    Perfiles activos.
+    Países disponibles.
+    Ahorro total generado.
+
+Alianzas
+Mostrar alianzas comerciales o tecnológicas únicamente cuando hayan sido confirmadas. Si son datos de demostración, indicarlo claramente.
+Cómo funciona
+Mostrar cuatro pasos:
+
+    Regístrate.
+    Elige una plataforma.
+    Selecciona un plan.
+    Administra tu perfil y controla tus ahorros.
+
+14. Pie de página
+Crear un footer con fondo #02010A o #04052E y texto claro.
+Incluir:
+
+    Logo completo de Turop.
+    Descripción breve.
+    Inicio.
+    Cómo funciona.
+    Preguntas frecuentes.
+    Términos y condiciones.
+    Política de privacidad.
+    Soporte.
+    Redes sociales.
+    Correo de contacto.
+    Selector de idioma.
+    Copyright.
+
+15. Requisitos técnicos
+La aplicación debe:
+
+    Ser completamente responsive.
+    Funcionar en navegadores modernos.
+    Usar componentes reutilizables.
+    Mostrar estados de carga, error, éxito y vacío.
+    Validar formularios en el cliente y servidor.
+    Prepararse para autenticación real.
+    Prepararse para integración con base de datos.
+    Permitir administrar plataformas, precios y planes desde un panel administrativo.
+    Usar datos ficticios claramente marcados como demostración.
+    Proteger la información personal y financiera.
+    No almacenar datos completos de tarjetas.
+    Integrar proveedores de pago certificados para transacciones reales.
+    Mantener buen rendimiento y tiempos de carga reducidos.
+    Cumplir buenas prácticas de accesibilidad.
+    Tener estados hover, focus, active, disabled y loading.
+    Mantener contraste adecuado entre texto y fondos.
+    Ser compatible con navegación mediante teclado.
+
+Resultado esperado
+Crear una experiencia digital completa para Turop con el siguiente flujo:
+
+    Pantalla de carga con logo y barra de progreso.
+    Página de bienvenida con el mensaje “Con Turop ahorras hasta un 70%”.
+    Registro dividido por pasos.
+    Selección de país y código telefónico.
+    Selección segura del método de pago.
+    Creación de cuenta.
+    Panel principal.
+    Registro de perfiles.
+    Selección de plataforma.
+    Selección de usuarios y duración del plan.
+    Confirmación del perfil.
+    Visualización de pagos, ahorro y fechas.
+    Reseñas.
+    Mapamundi de usuarios.
+    Slider de plataformas populares.
+    Página informativa con misión, visión, métricas y alianzas.
+    Footer completo.
+
+La experiencia final debe comunicar confianza, ahorro, entretenimiento y simplicidad, utilizando siempre el logo oficial de Turop y la paleta #02010A, #04052E, #140152, #22007C y #0D00A4.
